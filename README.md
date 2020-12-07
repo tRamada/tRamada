@@ -11,4 +11,4 @@ I'm Tiago from Portugal, and I study programming. I really enjoy learning langua
 * 🛠 IDE: VS Code
 
 ## Examples of Work
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+<img src="tenor.gif" width="512" >
