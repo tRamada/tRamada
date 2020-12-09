@@ -6,8 +6,8 @@ I'm Tiago from Portugal, I study programming. I really enjoy learning languages 
 ## Skills and Experience
 * 🐍 Phyton
 * 📱 C++
-* ☕️ Java
-* 💻 HTML, CSS, JS
+* ☕️ Java and JavaScript
+* 💻 HTML, CSS
 * 🛠 IDE: VS Code
 
 ## Examples of Work
