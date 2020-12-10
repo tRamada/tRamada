@@ -1,6 +1,14 @@
 # Tiago Ramada
 I'm Tiago from Portugal, I study programming. I really enjoy learning languages like Java, Phyton and C, as well as work in WordPress. I also enjoy learn more languages and editing photos. 
 
+## I'm a new Developer!!
+
+- 🔭 I'm currently working on a lot of projects!
+- 🌱 I’m currently learning Phyton,Java and C++.
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 My Goals: Create a big company with my friends.
+- ⚡ Fun fact: I like skate and do short walks at night.
+
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
