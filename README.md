@@ -26,7 +26,7 @@
 ### My Website
 I made this site with HTML\CSS and JavaScript.
 
-<img src="Website_Screenshot.png" width="300">
+<img src="Website_Screenshot.png" width="620">
 
 You can check my website here: www.tiagoramada.live 
 
