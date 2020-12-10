@@ -1,5 +1,5 @@
 # Hi, I'm Tiago - aka [tRamada] 👋
-I'm Tiago from Portugal, I study programming. I really enjoy learning languages like Java, Phyton and C, as well as work in WordPress. I also enjoy learn more languages and editing photos. 
+👦 | I'm Tiago from Portugal, I study programming. I really enjoy learning languages like Java, Phyton and C, as well as work in WordPress. I also enjoy learn more languages and editing photos. 
 
 ## I'm a new Developer!!
 
