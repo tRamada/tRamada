@@ -23,9 +23,10 @@
 <br />
 <br />
 
-### Examples of Work
-<img src="tenor.gif" width="250" >
+### My Website
+I made this site with HTML\CSS and JavaScript.
 
+You can check my website here: www.tiagoramada.live 
 
 #### Connect with me:
 
