@@ -23,17 +23,17 @@
 <br />
 <br />
 
-### Connect with me:
+## Examples of Work
+<img src="tenor.gif" width="250" >
+
+
+## Connect with me:
 
 [<img align="left" alt="tRamada | Twitter" width="22px" src="Twitter_Icon.png" />][twitter]
 [<img align="left" alt="tRamada | LinkedIn" width="22px" src="Linkedin_Icon.png" />][linkedin]
 [<img align="left" alt="tRamada | Instagram" width="22px" src="Instagram_Icon.png" />][instagram]
 <br>
 <br>
-
-## Examples of Work
-<img src="tenor.gif" width="250" >
-
 
 [twitter]: https://twitter.com/tRamada_
 [instagram]: https://www.instagram.com/tiago.ramada/
