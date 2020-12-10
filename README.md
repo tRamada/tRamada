@@ -26,6 +26,8 @@
 ### My Website
 I made this site with HTML\CSS and JavaScript.
 
+<img src="Website_Screenshot.png" width="300">
+
 You can check my website here: www.tiagoramada.live 
 
 #### Connect with me:
