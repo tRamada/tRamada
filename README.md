@@ -28,5 +28,5 @@ I'm Tiago from Portugal, I study programming. I really enjoy learning languages 
 
 
 [twitter]: https://twitter.com/tRamada_
-[instagram]: https://www.instagram.com/tiago.jdr/?hl=pt
+[instagram]: https://www.instagram.com/tiago.ramada/
 [linkedin]: https://www.linkedin.com/in/tiago-ramada-5888a8193/
