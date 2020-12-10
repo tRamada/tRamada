@@ -23,3 +23,8 @@ I'm Tiago from Portugal, I study programming. I really enjoy learning languages 
 
 ## Examples of Work
 <img src="tenor.gif" width="250" >
+
+
+[twitter]: https://twitter.com/tRamada_
+[instagram]: https://www.instagram.com/tiago.jdr/?hl=pt
+[linkedin]: https://www.linkedin.com/in/tiago-ramada-5888a8193/
