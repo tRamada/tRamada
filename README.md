@@ -1,13 +1,13 @@
 ## Hi, I'm Tiago - aka [tRamada] 👋
-👦 - I'm Tiago from Portugal, I study programming. I really enjoy learning languages like Java, Phyton and C. I also enjoy learn more languages and editing photos. 
+👦 - I'm Tiago from Portugal, I study programming. I really enjoy learning languages like JavaScript and Phyton. I also enjoy learn more languages and editing photos. 
 
 ### I'm a new Developer!!
 
 - 🔭 I'm currently working on a lot of projects!
-- 🌱 I’m currently learning Phyton,Java and C++.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 My Goals: Create a big company with my friends.
-- ⚡ Fun fact: I like skate and do short walks at night.
+- 🌱 I’m currently learning Phyton and JavaScript.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 My Goals: Create a big company.
+- ⚡ Fun fact: I like skate.
 
 ### 🛠 Languages and Tools:
 
