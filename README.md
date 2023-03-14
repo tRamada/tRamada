@@ -4,10 +4,9 @@
 ### I'm a Developer!!
 
 - 🔭 I'm currently working on a lot of projects!
-- 🌱 I’m currently learning Swift.
+- 🌱 I’m currently learning C and JavaScript.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 My Goals: Create a big company.
-- ⚡ Fun fact: I like skate.
 
 ### 🛠 Languages and Tools:
 
