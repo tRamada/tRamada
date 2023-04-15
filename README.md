@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate with other programmers.
 - 🥅 My Goals: Create my own company.
 
-<a href="[https://stackoverflow.com/](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)"><img src="RELATIVE_PATH_TO_IMAGE></img></a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tRamada&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
