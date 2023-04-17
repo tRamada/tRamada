@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript and C.
 - 👯 I’m looking to collaborate with other programmers.
 - 🥅 My Goals: Create my own company.
-<br/>
 
 ## 💻 Tech Stack:
 .
