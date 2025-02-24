@@ -19,6 +19,7 @@
 
 ## 🚀 Projects:
 Here are some of my projects:
+- **[ProjectHairdresser](https://github.com/tRamada/projecthairdresser.git)**: The project is a hairdresser management system that allows the owner to manage employees, clients, appointments, stocks, and the price table.
 - **[Move-To-OU](https://github.com/tRamada/Move-To-OU)**: 'Move-To-OU' was done in PowerShell to automate the User/User's move between OU path from Active Directory (Windows Server).
 - **[Password Generator](https://github.com/tRamada/PG-Website)**: Simple password generator made with javascript.
 
