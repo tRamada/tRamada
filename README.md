@@ -37,7 +37,7 @@ I have worked as intern:
 ---
 
 ## 🏆 Achievements:
-- I delivered my first collaborative project to a client in [Field] (2025) with my college (**[BernardoVaz10](https://github.com/BernardoVaz10)**).
+- I delivered my first collaborative project to a client in [2025] with my college (**[BernardoVaz10](https://github.com/BernardoVaz10)**).
 
 ---
 
