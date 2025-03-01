@@ -9,10 +9,14 @@
 ## 💻 Tech Stack:
 <p align="left">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" width="30px"/>
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3" width="30px"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="30px"/>
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="30px"/>
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="30px"/>
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="30px"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="30px"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="30px"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="30px"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="30px"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/powershell/powershell.png" alt="PowerShell" width="30px"/>
 </p>
 
 ---
@@ -53,7 +57,7 @@ I have worked as intern:
 
 ---
 
-## 🌎 Connect with me:
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://seu-portfolio.com) -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiago.dramada@gmail.com)
+<!--## 🌎 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://seu-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiago.dramada@gmail.com)-->
