@@ -1,63 +1,63 @@
-# 👋 Hi, I'm Ramada!  
-🔭 Currently working on a collaborative project.  
-🌱 Learning React and expanding my full-stack skills.  
-🚀 Passionate about building efficient and scalable web applications.  
-🥅 Goal: Build and scale my own software company.  
+# 👋 Hey, I'm Tiago  
+
+💻 Full-stack Developer in Progress | 🚀 Future Founder | 🎯 Lifelong Learner  
+
+I’m passionate about building **scalable, efficient web applications** and transforming ideas into real-world solutions.  
+Currently focused on improving my **React + Node.js** skills while working on personal and collaborative projects.  
 
 ---
 
-## 💻 Tech Stack:
+## ⚡ Tech Stack
 <p align="left">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" width="30px"/>
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="30px"/>
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="30px"/>
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="30px"/>
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="30px"/>
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="30px"/>
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="30px"/>
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="30px"/>
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/powershell/powershell.png" alt="PowerShell" width="30px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" width="35px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="35px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="35px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="35px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="35px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="35px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="35px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="35px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/powershell/powershell.png" alt="PowerShell" width="35px"/>
 </p>
 
----
-
-## 🚀 Projects:
-Here are some of my projects:
-- **[Move-To-OU](https://github.com/tRamada/Move-To-OU)**: 'Move-To-OU' was done in PowerShell to automate the User/User's move between OU path from Active Directory (Windows Server).
-- **[Password Generator](https://github.com/tRamada/PG-Website)**: Simple password generator made with javascript.
-
----
-
-## 💼 Experience:
-I have worked as intern:
-- **Mutega** (2020 – 2022): I had this intership while i was doing my software developer course, where i learn a lot about powershell scripts and Windows Server configuration (SCCM).
+**Core Expertise:**  
+- **Frontend:** React, HTML5, CSS3, JavaScript  
+- **Backend:** Node.js, Java, C  
+- **Databases:** MySQL  
+- **Automation & Scripting:** PowerShell  
+- **Other Tools:** Windows Server, SCCM  
 
 ---
 
-## 🎓 Education:
-- **Finishing my Degree** (now): I'm doing my computer engineering degree at Polytechnic Institute of Setubal.
+## 🚀 Projects
+Here are some highlights of my work:  
+
+- **[Move-To-OU](https://github.com/tRamada/Move-To-OU)** → Automates user moves between OU paths in Active Directory using PowerShell.  
+- **[Password Generator](https://github.com/tRamada/PG-Website)** → A simple and effective password generator built with JavaScript.  
+- *(More coming soon — always building!)*  
 
 ---
 
-## 🏆 Achievements:
-- I delivered my first collaborative project to a client in [2025] with my college (**[BernardoVaz10](https://github.com/BernardoVaz10)**).
+## 💼 Experience
+- **Intern @ Mutega (2020 – 2022)**  
+  Hands-on experience gained during my Software Development course:  
+  - Developed PowerShell scripts to automate tasks  
+  - Configured and maintained Windows Server & SCCM  
+  - Strengthened knowledge in IT automation and systems management  
 
 ---
 
-## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tRamada&show_icons=true&theme=dark&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tRamada&theme=dark&hide_border=false&layout=compact" width="48%" />
-</p>
-
-<!---
-
-### 👀 Profile Views:
-[![](https://visitcount.itsvg.in/api?id=tRamada&icon=0&color=0)](https://visitcount.itsvg.in) -->
+## 🎓 Education
+- **BSc in Computer Engineering (Ongoing)**  
+  Polytechnic Institute of Setúbal  
 
 ---
 
-<!--## 🌎 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](https://seu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiago.dramada@gmail.com)-->
+## 🏆 Achievements
+- ✅ Delivered my **first collaborative project to a real client (2025)** alongside [BernardoVaz10](https://github.com/BernardoVaz10).  
+
+---
+
+## 🌍 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-ramada)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiago.dramada@gmail.com)  
