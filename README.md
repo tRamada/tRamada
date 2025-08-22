@@ -49,7 +49,6 @@ Here are some highlights of my work:
 
 ## 🎓 Education
 - **BSc in Computer Engineering (Ongoing)**  
-  Polytechnic Institute of Setúbal  
 
 ---
 
