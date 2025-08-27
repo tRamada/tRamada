@@ -32,7 +32,8 @@ Currently focused on improving my **React + Node.js** skills while working on pe
 ## 🚀 Projects
 Here are some highlights of my work:  
 
-- **[Move-To-OU](https://github.com/tRamada/Move-To-OU)** → Automates user moves between OU paths in Active Directory using PowerShell.  
+- **[Move-To-OU](https://github.com/tRamada/Move-To-OU)** → Automates user moves between OU paths in Active Directory using PowerShell.
+- **[All in One](https://github.com/tRamada/all_in_one)** → Web-based tool for downloading your favorite content.   
 - **[Password Generator](https://github.com/tRamada/PG-Website)** → A simple and effective password generator built with JavaScript.  
 - *(More coming soon — always building!)*  
 
