@@ -1,15 +1,13 @@
 # I'm Tiago Ramada
-### Full-stack Developer | Aspiring Founder | Computer Engineering Student
+### Software Engineer & AI enthusiast
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tRamada&style=flat-square&color=0078D4&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Location-Portugal-0078D4?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Lisbon-0078D4?style=flat-square&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Education-BSc%20Computer%20Engineering-0078D4?style=flat-square&logo=read-the-docs&logoColor=white" />
 </p>
 
 > **Engineering the future through clean, efficient, and purposeful code.**
-> I specialise in the **React and Node.js** ecosystem, blending rigorous academic theory with hands-on systems automation and infrastructure experience.
-
 ---
 
 ### Tech Stack & Toolbox
