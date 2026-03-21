@@ -28,9 +28,10 @@
 
 ### Featured Engineering Projects
 
+* **[RAG Chatbot System](https://github.com/tRamada/retrieval-augmented-generation)** — **RAG:** A complete Retrieval-Augmented Generation (RAG) system that allows you to ask questions about your local documents using Llama 3 via Ollama.
+* **[Car Diagnostic Scanner](https://github.com/tRamada/car-diagnostic-scanner)** — **Error scanner:** Web-based OBD2 diagnostic scanner with support for ELM327 devices and an adapter architecture for other scanner versions.
 * **[Move-To-OU](https://github.com/tRamada/Move-To-OU)** — **Infrastructure Automation:** Enterprise-grade PowerShell solution for Active Directory. Automates dynamic Organizational Unit migrations, significantly reducing human error in large-scale IT environments.
 * **[All in One](https://github.com/tRamada/all_in_one)** — **Utility & UX:** High-performance media management utility. Designed with a founder's mindset on simplicity and technical efficiency to streamline complex content workflows.
-* **[Password Generator](https://github.com/tRamada/PG-Website)** — **Security & Logic:** Web implementation of entropy-based cryptographic algorithms. Demonstrates a commitment to defensive security principles and clean algorithmic logic.
 
 ---
 
